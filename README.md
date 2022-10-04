@@ -103,8 +103,13 @@ Tuesday 15/11
 Wednesday 16/11
 ---------------
 
+* 15:30-17 Panel: Reinventing High-Performance Computing      
+  Location: C147-148-154
+  https://sc22.supercomputing.org/presentation/?id=pan103&sess=sess175
+
 * 17:15-18:45 BOF Liquid Cooling Adoption: Roadblocks and Key Learnings   
-  Location: D221
+  Location: D221   
+  https://sc22.supercomputing.org/presentation/?id=bof115&sess=sess472
 
 Thursday 17/11
 -------------
