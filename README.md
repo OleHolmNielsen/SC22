@@ -115,7 +115,8 @@ Thursday 17/11
 -------------
 
 * 12:15-13:15 BOF OpenHPC Community BoF   
-  Location: D161
+  Location: D161   
+  https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof160&sess=sess372
 
 * 18-21:30 Technical Program Reception.   
   Location: The Exchange/AT&T Discovery District   
@@ -124,3 +125,6 @@ Thursday 17/11
 Friday 18/11
 ------------
 
+* 8:30-10 Panel: Quantum Computing: A Future for HPC Acceleration?   
+  Location: C155-156   
+  https://sc22.supercomputing.org/presentation/?id=pan120&sess=sess185
