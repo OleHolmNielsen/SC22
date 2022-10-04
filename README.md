@@ -54,17 +54,18 @@ Thursday 10/11
 Friday 11/11
 ------------
 
-* 10:00-17:30
-HPE ForCAST Fall 2022 conference (web-site not yet ready).
-Location: AT&T Stadium, One AT&T Way, Arlington, Texas 76011 (some 10 km West of the city)
-Registration: https://web.cvent.com/event/43fcb1bf-11bb-40f0-9512-dfc2cb3c4d80/summary?locale=en-US&tm=ikJYyLncbWCGBzugoVN4yQz1g885hyTel7KFwcx0tBw
+* 10:00-17:30 HPE ForCAST Fall 2022 conference (web-site not yet ready).
+
+  Location: AT&T Stadium, One AT&T Way, Arlington, Texas 76011 (some 10 km West of the city)
+
+  Registration: https://web.cvent.com/event/43fcb1bf-11bb-40f0-9512-dfc2cb3c4d80/summary?locale=en-US&tm=ikJYyLncbWCGBzugoVN4yQz1g885hyTel7KFwcx0tBw
 
 Lørdag 12/11
 ------------
 
-* 10:00-17:30
-HPE ForCAST Fall 2022 conference.
-A possibility of NDA meetings with HPE.
+* 10:00-17:30 HPE ForCAST Fall 2022 conference.
+
+  A possibility of NDA meetings with HPE.
 
 Travel to USA:
 
@@ -78,8 +79,10 @@ Monday 14/11
 ------------
 
 * 9-17 DellEMC HPC Community event
+
   Location: Hyatt Regency Dallas, 300 Reunion Blvd
-  Register at https://dellhpc.org/events/29918
+
+  Register (for free) at https://dellhpc.org/events/29918
 
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
@@ -87,6 +90,7 @@ Tuesday 15/11
 -------------
 
 * 8:30-10 SC22 Opening session,	Dallas Ballroom/Omni Hotel
+
   Jack Dongarra: ACM A.M. Turing Lecture: A Not So Simple Matter of Software.
   https://sc22.supercomputing.org/attend/schedule/?filter1=evtt135
 
