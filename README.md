@@ -84,21 +84,33 @@ Monday 14/11
 Tuesday 15/11
 -------------
 
-* 8:30-10 SC22 Opening session,	Dallas Ballroom/Omni Hotel
-
+* 8:30-10 SC22 Opening session,	Dallas Ballroom/Omni Hotel   
   Jack Dongarra: ACM A.M. Turing Lecture: A Not So Simple Matter of Software.   
   https://sc22.supercomputing.org/attend/schedule/?filter1=evtt135
 
 * 10-11 WEKA.io meeting at booth 3223, Derek Burke - Regional Manager UK & Nordics and Chris Weeden - Snr Systems Engineer.   
   Set up by Per.
 
+* 12:15-13:15 Lustre Community BOF   
+  Location: C155-156   
+  https://sc22.supercomputing.org/presentation/?id=bof112&sess=sess307
+
+* 17:15-18:45 TOP500 Supercomputers   
+  Location: Dallas Ballroom/Omni Hotel   
+  https://sc22.supercomputing.org/presentation/?id=bof125&sess=sess477
+
 
 Wednesday 16/11
 ---------------
 
+* 17:15-18:45 BOF Liquid Cooling Adoption: Roadblocks and Key Learnings   
+  Location: D221
 
 Thursday 17/11
 -------------
+
+* 12:15-13:15 BOF OpenHPC Community BoF   
+  Location: D161
 
 * 18-21:30 Technical Program Reception.   
   Location: The Exchange/AT&T Discovery District   
