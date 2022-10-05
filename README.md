@@ -75,6 +75,9 @@ Sunday 13/11
 Monday 14/11
 ------------
 
+* 9:00-10:00 HPE NDA meeting, host Kor Pestman   
+  Location: ???
+
 * 9-17 DellEMC HPC Community event   
   Location: Hyatt Regency Dallas, 300 Reunion Blvd   
   Register (for free) at https://dellhpc.org/events/29918
