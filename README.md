@@ -96,7 +96,7 @@ Tuesday 15/11
   https://sc22.supercomputing.org/presentation/?id=bof112&sess=sess307
 
 * 16:00-17:00 Lenovo NDA briefing, host Karl Hansen   
-  Location: Sheraton Dallas, 400 Olive Street
+  Location: Sheraton Dallas, 400 Olive Street, Room: City View #2
 
 * 17:15-18:45 TOP500 Supercomputers   
   Location: Dallas Ballroom/Omni Hotel   
