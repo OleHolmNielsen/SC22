@@ -16,7 +16,7 @@ Participants:
 
 Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 
-* Sheraton Dallas Hotel: Per
+* Sheraton Dallas Hotel, 400 North Olive Street: Per
 * Hilton Garden Inn Downtown Dallas, 1600 Pacific Avenue: Rune
 * Magnolia Hotel Dallas, 1401 Commerce Street: Ole
 
@@ -94,6 +94,9 @@ Tuesday 15/11
 * 12:15-13:15 Lustre Community BOF   
   Location: C155-156   
   https://sc22.supercomputing.org/presentation/?id=bof112&sess=sess307
+
+* 16:00-17:00 Lenovo NDA briefing, host Karl Hansen   
+  Location: Sheraton Dallas, 400 Olive Street
 
 * 17:15-18:45 TOP500 Supercomputers   
   Location: Dallas Ballroom/Omni Hotel   
