@@ -51,6 +51,10 @@ Agenda
 Thursday 10/11
 --------------
 
+Travel to USA:
+
+* Lottie: Dallas arrival 15:10.
+
 Friday 11/11
 ------------
 
