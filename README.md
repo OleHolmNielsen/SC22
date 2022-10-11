@@ -91,6 +91,9 @@ Monday 14/11
 * 13:00-14:00 Intel NDA meeting (Ole coordinates with Intel)   
   Location: Fairmont Dallas Hotel, 1717 N Akard St
 
+* 15:00-16:00 Cornelis Networks NDA meeting (Ole coordinates)   
+  Location: TBD
+
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
 Tuesday 15/11
