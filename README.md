@@ -17,9 +17,8 @@ Participants:
 
 Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 
-* Sheraton Dallas Hotel, 400 North Olive Street: Per
+* Sheraton Dallas Hotel, 400 North Olive Street: Per, Ole
 * Hilton Garden Inn Downtown Dallas, 1600 Pacific Avenue: Rune
-* Magnolia Hotel Dallas, 1401 Commerce Street: Ole
 * Homewood Suites Dallas Downtown, 1025 Elm Street, Main Street District: Pietro
 
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
@@ -88,6 +87,9 @@ Monday 14/11
 * 9-17 DellEMC HPC Community event   
   Location: Hyatt Regency Dallas, 300 Reunion Blvd   
   Register (for free) at https://dellhpc.org/events/29918
+
+* 13:00-14:00 Intel NDA meeting (Ole coordinates with Intel)   
+  Location: Fairmont Dallas Hotel, 1717 N Akard St
 
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
