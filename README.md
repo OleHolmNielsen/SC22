@@ -67,8 +67,7 @@ Friday 11/11
 Lørdag 12/11
 ------------
 
-* 10:00-17:30 HPE ForCAST Fall 2022 conference.   
-  A possibility of NDA meetings with HPE.
+* 10:00-17:30 HPE ForCAST Fall 2022 conference (continued).   
 
 Travel to USA:
 
@@ -120,6 +119,9 @@ Tuesday 15/11
 
 Wednesday 16/11
 ---------------
+
+* 10:00-11:00 Cornelis Networks (Omni-Path fabric) NDA meeting (Ole coordinates)   
+  Location: Show floor meeting room XXX
 
 * 15:30-17 Panel: Reinventing High-Performance Computing      
   Location: C147-148-154
