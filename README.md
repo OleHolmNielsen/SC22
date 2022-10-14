@@ -71,7 +71,7 @@ Friday 11/11
 
 * 10:00-17:30 HPE ForCAST Fall 2022 conference (web-site not yet ready).   
   Location: AT&T Stadium, One AT&T Way, Arlington, Texas 76011 (some 10 km West of the city)   
-  Registration: https://web.cvent.com/event/43fcb1bf-11bb-40f0-9512-dfc2cb3c4d80/summary?locale=en-US&tm=ikJYyLncbWCGBzugoVN4yQz1g885hyTel7KFwcx0tBw
+  Registration: https://web.cvent.com/event/43fcb1bf-11bb-40f0-9512-dfc2cb3c4d80/summary?locale=en-US&tm=ikJYyLncbWCGBzugoVN4yQz1g885hyTel7KFwcx0tBw   
   "HPE will provide transportation to and from the Omni Hotel, Dallas to AT&T Stadium on both days for a once-in-a-lifetime experience"
 
 Lørdag 12/11
