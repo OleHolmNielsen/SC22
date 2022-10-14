@@ -20,6 +20,7 @@ Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 * Sheraton Dallas Hotel, 400 North Olive Street: Per, Ole
 * Hilton Garden Inn Downtown Dallas, 1600 Pacific Avenue: Rune
 * Homewood Suites Dallas Downtown, 1025 Elm Street, Main Street District: Pietro
+* 500 S Ervay St · 500 S Ervay St: Martin
 
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
 
@@ -56,6 +57,12 @@ Travel to USA:
 
 * Lottie, Pietro: Finnair AY19 Dallas arrival 15:10.
 * Per: Dallas arrival 21:40.
+* Rune: BA193 arrival 15:25.
+* Martin: AY5799 arrival 14:46.
+
+DART: https://www.dart.org/riding/dartrailorangeline.asp#rail
+DFW -> West END Station [Pietro, 320m]
+       Akard [Rune, 100m ; Martin, 800m]
 
 Friday 11/11
 ------------
@@ -63,6 +70,7 @@ Friday 11/11
 * 10:00-17:30 HPE ForCAST Fall 2022 conference (web-site not yet ready).   
   Location: AT&T Stadium, One AT&T Way, Arlington, Texas 76011 (some 10 km West of the city)   
   Registration: https://web.cvent.com/event/43fcb1bf-11bb-40f0-9512-dfc2cb3c4d80/summary?locale=en-US&tm=ikJYyLncbWCGBzugoVN4yQz1g885hyTel7KFwcx0tBw
+  "HPE will provide transportation to and from the Omni Hotel, Dallas to AT&T Stadium on both days for a once-in-a-lifetime experience"
 
 Lørdag 12/11
 ------------
