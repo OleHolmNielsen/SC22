@@ -29,6 +29,8 @@ Enter Advanced Passenger Information (APIS) with your airline:
 * SAS: https://www.sas.dk/rejseinfo/pas-id-visum/indrejsebestemmelser/
 * BA: https://www.britishairways.com/en-dk/information/passports-visas-and-api
 
+Our SC22 [mailing list archive](https://listserv.fysik.dtu.dk/pipermail/sc22-deic/2022/thread.html).
+
 Conference report to DeiC
 -------------------------
 
