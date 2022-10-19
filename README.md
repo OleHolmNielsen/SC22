@@ -97,10 +97,10 @@ Monday 14/11
   Location: Hyatt Regency Dallas, 300 Reunion Blvd   
   Register (for free) at https://dellhpc.org/events/29918
 
-* 13:00-14:00 Intel NDA meeting (Ole coordinates with Intel)   
+* 13:00-14:00 Intel NDA meeting (Coordinator: Ole)   
   Location: Fairmont Dallas Hotel, 1717 N Akard St
 
-* 15:00-16:00 Cornelis Networks NDA meeting (Ole coordinates)   
+* 15:00-16:00 Cornelis Networks NDA meeting (Coordinator: Ole)   
   Location: TBD
 
 * 19-21 Gala Opening Reception, Exhibit Halls 
@@ -114,49 +114,43 @@ Tuesday 15/11
 
 * 10-11 [WEKA.io](https://www.weka.io/)
   meeting with Derek Burke - Regional Manager UK & Nordics
-  and Chris Weeden - Snr Systems Engineer (Per is coordinating).   
+  and Chris Weeden - Snr Systems Engineer (Coordinator: Per).   
   Location: Show floor booth 3223.
 
 * 12:15-13:15 Lustre Community BOF   
   Location: C155-156   
   https://sc22.supercomputing.org/presentation/?id=bof112&sess=sess307
 
-* 16:00-17:00 Lenovo NDA briefing, host Karl Hansen   
+* 16:00-17:00 Lenovo NDA briefing, host Karl Hansen (Coordinator: Ole)   
   Location: Sheraton Dallas, 400 Olive Street, Room: City View #2
 
 * 17:15-18:45 TOP500 Supercomputers   
   Location: Dallas Ballroom/Omni Hotel   
   https://sc22.supercomputing.org/presentation/?id=bof125&sess=sess477
 
-
 Wednesday 16/11
 ---------------
 
-* 10:00-11:00 Cornelis Networks (Omni-Path fabric) NDA meeting (Ole coordinates)   
+* 10:00-11:00 Cornelis Networks (Omni-Path fabric) NDA meeting (Coordinator: Ole)   
   Location: Show floor meeting room XXX
 
-* 15:30-17 Panel: Reinventing High-Performance Computing      
+* 15:30-17 [Panel: Reinventing High-Performance Computing](https://sc22.supercomputing.org/presentation/?id=pan103&sess=sess175)      
   Location: C147-148-154
-  https://sc22.supercomputing.org/presentation/?id=pan103&sess=sess175
 
-* 17:15-18:45 BOF Liquid Cooling Adoption: Roadblocks and Key Learnings   
+* 17:15-18:45 [BOF Liquid Cooling Adoption: Roadblocks and Key Learnings](https://sc22.supercomputing.org/presentation/?id=bof115&sess=sess472)   
   Location: D221   
-  https://sc22.supercomputing.org/presentation/?id=bof115&sess=sess472
 
 Thursday 17/11
 -------------
 
-* 12:15-13:15 BOF OpenHPC Community BoF   
+* 12:15-13:15 [OpenHPC Community BoF   ](https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof160&sess=sess372)
   Location: D161   
-  https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof160&sess=sess372
 
-* 18-21:30 Technical Program Reception.   
+* 18-21:30 [Technical Program Reception](https://sc22.supercomputing.org/attend/schedule/?filter1=evtt135)   
   Location: The Exchange/AT&T Discovery District   
-  https://sc22.supercomputing.org/attend/schedule/?filter1=evtt135
 
 Friday 18/11
 ------------
 
-* 8:30-10 Panel: Quantum Computing: A Future for HPC Acceleration?   
+* 8:30-10 [Panel: Quantum Computing: A Future for HPC Acceleration?](https://sc22.supercomputing.org/presentation/?id=pan120&sess=sess185)   
   Location: C155-156   
-  https://sc22.supercomputing.org/presentation/?id=pan120&sess=sess185
