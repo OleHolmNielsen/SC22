@@ -138,13 +138,16 @@ Wednesday 16/11
 * 15:30-17 [Panel: Reinventing High-Performance Computing](https://sc22.supercomputing.org/presentation/?id=pan103&sess=sess175)      
   Location: C147-148-154
 
+* 16-17 AMD NDA-meeting (preliminary, host Johan Thorslund) (Coordinator: Ole)   
+  Location: TBD
+
 * 17:15-18:45 [BOF Liquid Cooling Adoption: Roadblocks and Key Learnings](https://sc22.supercomputing.org/presentation/?id=bof115&sess=sess472)   
   Location: D221   
 
 Thursday 17/11
 -------------
 
-* 12:15-13:15 [OpenHPC Community BoF](https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof160&sess=sess372)
+* 12:15-13:15 [OpenHPC Community BoF](https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof160&sess=sess372)   
   Location: D161   
 
 * 18-21:30 [Technical Program Reception](https://sc22.supercomputing.org/attend/schedule/?filter1=evtt135)   
