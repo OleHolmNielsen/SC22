@@ -112,7 +112,9 @@ Tuesday 15/11
   Jack Dongarra: ACM A.M. Turing Lecture: A Not So Simple Matter of Software.   
   https://sc22.supercomputing.org/attend/schedule/?filter1=evtt135
 
-* 10-11 WEKA.io meeting with Derek Burke - Regional Manager UK & Nordics and Chris Weeden - Snr Systems Engineer (Per is coordinating).   
+* 10-11 [WEKA.io](https://www.weka.io/)
+  meeting with Derek Burke - Regional Manager UK & Nordics
+  and Chris Weeden - Snr Systems Engineer (Per is coordinating).   
   Location: Show floor booth 3223.
 
 * 12:15-13:15 Lustre Community BOF   
