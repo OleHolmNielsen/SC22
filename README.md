@@ -20,7 +20,7 @@ Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 * Sheraton Dallas Hotel, 400 North Olive Street: Per, Ole
 * Hilton Garden Inn Downtown Dallas, 1600 Pacific Avenue: Rune
 * Homewood Suites Dallas Downtown, 1025 Elm Street, Main Street District: Pietro
-* 500 S Ervay St · 500 S Ervay St: Martin
+* Sonder — Butler Brothers, 500 S Ervay St: Martin
 
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
 
@@ -86,6 +86,9 @@ Travel to USA:
 Sunday 13/11
 ------------
 
+* 19-22: Intel’s SC22 Networking Reception   
+  Location: Arts District Mansion, 2101 Ross Ave   
+  Registration: https://cvent.me/Or0558
 
 Monday 14/11
 ------------
