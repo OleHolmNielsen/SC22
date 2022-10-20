@@ -17,7 +17,7 @@ Participants:
 
 Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 
-* Sheraton Dallas Hotel, 400 North Olive Street: Per, Ole
+* Sheraton Dallas Hotel, 400 North Olive Street: Per, Ole, Lars
 * Hilton Garden Inn Downtown Dallas, 1600 Pacific Avenue: Rune
 * Homewood Suites Dallas Downtown, 1025 Elm Street, Main Street District: Pietro
 * Sonder — Butler Brothers, 500 S Ervay St: Martin
@@ -73,6 +73,10 @@ Friday 11/11
   Location: AT&T Stadium, One AT&T Way, Arlington, Texas 76011 (some 10 km West of the city)   
   Registration: https://web.cvent.com/event/43fcb1bf-11bb-40f0-9512-dfc2cb3c4d80/summary?locale=en-US&tm=ikJYyLncbWCGBzugoVN4yQz1g885hyTel7KFwcx0tBw   
   "HPE will provide transportation to and from the Omni Hotel, Dallas to AT&T Stadium on both days for a once-in-a-lifetime experience"
+
+Travel to USA:
+
+* Lars: Arrival at 12.40.
 
 Lørdag 12/11
 ------------
