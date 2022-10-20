@@ -108,7 +108,7 @@ Monday 14/11
   Location: Fairmont Dallas Hotel, 1717 N Akard St
 
 * 15:00-16:00 Cornelis Networks NDA meeting (Coordinator: Ole)   
-  Location: TBD
+  Location: SC Show Room 130
 
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
