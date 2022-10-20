@@ -62,9 +62,12 @@ Travel to USA:
 * Rune: BA193 arrival 15:25.
 * Martin: AY5799 arrival 14:46.
 
-DART: https://www.dart.org/riding/dartrailorangeline.asp#rail
-DFW -> West END Station [Pietro, 320m]
-       Akard [Rune, 100m ; Martin, 800m]
+DFW Airport Station to Dallas:
+[DART orange line](https://www.dart.org/riding/dartrailorangeline.asp#rail):
+* West END Station [Pietro, 320m]
+* Akard [Rune, 100m ; Martin, 800m]
+
+[DART map](https://www.dart.org/maps/printrailmap.asp)
 
 Friday 11/11
 ------------
