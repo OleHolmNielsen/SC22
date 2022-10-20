@@ -63,11 +63,11 @@ Travel to USA:
 * Martin: AY5799 arrival 14:46.
 
 DFW Airport Station to Dallas:
-[DART orange line](https://www.dart.org/riding/dartrailorangeline.asp#rail):
+[DART orange line](https://www.dart.org/riding/dartrailorangeline.asp#rail)
+[DART map](https://www.dart.org/maps/printrailmap.asp):
+
 * West END Station [Pietro, 320m]
 * Akard [Rune, 100m ; Martin, 800m]
-
-[DART map](https://www.dart.org/maps/printrailmap.asp)
 
 Friday 11/11
 ------------
