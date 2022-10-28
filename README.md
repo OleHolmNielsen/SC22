@@ -155,7 +155,7 @@ Thursday 17/11
 -------------
 
 * 10:00-11:00 NVIDIA NDA-meeting (host Ulrich Michaelis <umichaelis@nvidia.com>) (Coordinator: Rasmus)   
-  Location: TBD
+  Location: Omni Dallas Hotel, 555 S Lamar St - Meeting Room: Omni Deep Ellum B
 
 * 12:15-13:15 [OpenHPC Community BoF](https://sc22.supercomputing.org/?post_type=page&p=3479&id=bof160&sess=sess372)   
   Location: D161   
