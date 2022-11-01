@@ -6,7 +6,7 @@ DeiC HPC sysadmin group participation in the SC22 conference
 Participants:
 
 * kildetoft at nbi.dk (Rune Kildetoft)
-* logr at itu.dk (Lottie Greenwood)
+* logr at itu.dk (Lottie Greenwood) +45 3162 0624
 * melwyn at dtu.dk (Lars Melwyn)
 * Ole.H.Nielsen at fysik.dtu.dk (Ole Holm Nielsen) +45 5180 1620
 * peraaa at dtu.dk (Per Aa. Ankerstjerne )
@@ -21,6 +21,7 @@ Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 * Hilton Garden Inn Downtown Dallas, 1600 Pacific Avenue: Rune
 * Homewood Suites Dallas Downtown, 1025 Elm Street, Main Street District: Pietro
 * Sonder — Butler Brothers, 500 S Ervay St: Martin
+* Omni Dallas Hotel, 555 S Lamar St: Lottie
 
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
 
