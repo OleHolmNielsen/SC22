@@ -116,6 +116,8 @@ Monday 14/11
 
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
+* 19:30 LUMI booth 545 opening, see https://www.lumi-supercomputer.eu/events/sc22-dallas-usa/
+
 Tuesday 15/11
 -------------
 
