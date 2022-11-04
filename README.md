@@ -43,6 +43,8 @@ Previous reports can be found at https://www.deic.dk/en/Supercomputing/About-HPC
 Conference information
 ----------------------
 
+Install the [Supercomputing 2022 app](https://sc22.supercomputing.org/attend/schedule/mobile-app/) on your phone.
+
 First timers: Read https://sc22.supercomputing.org/attend/first-timers/
 
 Register for the *Technical Program* before 15/10: https://sc22.supercomputing.org/attend/registration/   
