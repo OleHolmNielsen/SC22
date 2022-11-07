@@ -11,9 +11,9 @@ Participants:
 * Ole.H.Nielsen at fysik.dtu.dk (Ole Holm Nielsen) +45 5180 1620 https://dcwww.fysik.dtu.dk/~ohnielse/
 * peraaa at dtu.dk (Per Aa. Ankerstjerne )  +45 42160911 https://linkedin.com/in/per-aagaard-ankerstjerne-321a731
 * pbor at dtu.dk (Pietro Bortolozzo) https://www.dtu.dk/person/pietro-antonio-bortolozzo?id=59691&entity=profile
-* rb at its.aau.dk (Rainer Bohm)
+* rb at its.aau.dk (Rainer Bohm) +45 4058 5540
 * rehr at science.ku.dk (Martin Rehr)
-* rj at its.aau.dk (Rasmus Jensen)
+* rj at its.aau.dk (Rasmus Jensen) +45 2566 5810
 
 Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 
@@ -22,6 +22,7 @@ Hotels in Dallas: https://sc22.supercomputing.org/attend/housing/
 * Homewood Suites Dallas Downtown, 1025 Elm Street, Main Street District: Pietro
 * Sonder — Butler Brothers, 500 S Ervay St: Martin
 * Omni Dallas Hotel, 555 S Lamar St: Lottie
+* Mercantile Continental Building, 1810 Commerce St.: Rainer, Rasmus
 
 Remember to renew your ESTA no later than 72 hours before departure: https://esta.cbp.dhs.gov/esta/
 
@@ -83,6 +84,7 @@ Friday 11/11
 Travel to USA:
 
 * Lars: Arrival at 12.40.
+* Rainer, Rasmus: Arrival at 16:11, Delta Airlines DL2069
 
 Lørdag 12/11
 ------------
