@@ -135,6 +135,9 @@ Tuesday 15/11
 * 12:15-13:15 [Lustre Community BOF](https://sc22.supercomputing.org/presentation/?id=bof112&sess=sess307)   
   Location: C155-156   
 
+* 14:00-15:00 NDA meeting with DellEMC (host Thue Stahl and David Smith) (Coordinator: Ole)
+  Location: Cumberland E, Exhibition Level 
+
 * 16:00-17:00 Lenovo NDA briefing, host Karl Hansen (Coordinator: Ole)   
   Location: Sheraton Dallas, 400 Olive Street, Room: City View #2
 
