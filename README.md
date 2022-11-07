@@ -9,7 +9,7 @@ Participants:
 * logr at itu.dk (Lottie Greenwood) +45 3162 0624
 * melwyn at dtu.dk (Lars Melwyn) +45 93511547 https://www.dtu.dk/person/lars-melwyn-jensen-fjelsted?id=105731&entity=profile
 * Ole.H.Nielsen at fysik.dtu.dk (Ole Holm Nielsen) +45 5180 1620
-* peraaa at dtu.dk (Per Aa. Ankerstjerne )  +45 42160911 linkedin.com/in/per-aagaard-ankerstjerne-321a731
+* peraaa at dtu.dk (Per Aa. Ankerstjerne )  +45 42160911 https://linkedin.com/in/per-aagaard-ankerstjerne-321a731
 * pbor at dtu.dk (Pietro Bortolozzo)
 * rb at its.aau.dk (Rainer Bohm)
 * rehr at science.ku.dk (Martin Rehr)
