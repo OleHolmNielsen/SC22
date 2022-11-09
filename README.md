@@ -113,7 +113,7 @@ Monday 14/11
   Register (for free) at https://dellhpc.org/events/29918
 
 * 13:00-13:50 Intel NDA meeting, host Jean-Laurent Philippe (Coordinator: Ole)   
-  Location: Fairmont Dallas Hotel, 1717 N Akard St
+  Location: State Room, Banquet Level (B Level), Fairmont Dallas Hotel, 1717 N Akard St
 
 * 15:00-16:00 Cornelis Networks NDA meeting (Coordinator: Ole)   
   Location: SC Show Room 130
