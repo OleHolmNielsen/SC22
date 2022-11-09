@@ -112,7 +112,7 @@ Monday 14/11
   Location: Hyatt Regency Dallas, 300 Reunion Blvd   
   Register (for free) at https://dellhpc.org/events/29918
 
-* 13:00-14:00 Intel NDA meeting (Coordinator: Ole)   
+* 13:00-13:50 Intel NDA meeting, host Jean-Laurent Philippe (Coordinator: Ole)   
   Location: Fairmont Dallas Hotel, 1717 N Akard St
 
 * 15:00-16:00 Cornelis Networks NDA meeting (Coordinator: Ole)   
@@ -137,8 +137,9 @@ Tuesday 15/11
 * 12:15-13:15 [Lustre Community BOF](https://sc22.supercomputing.org/presentation/?id=bof112&sess=sess307)   
   Location: C155-156   
 
-* 14:00-15:00 NDA meeting with DellEMC (host Thue Stahl and David Smith) (Coordinator: Ole)   
-  Location: Cumberland E, Exhibition Level 
+* 14:00-15:15 NDA meeting with DellEMC (host David Smith) (Coordinator: Ole)   
+  Location: Cumberland E, Hyatt Regency Exhibition Level, 300 Reunion Blvd    
+  15:00: Whisper Suite A, Pegasus A - Hyatt Regency atrium level
 
 * 16:00-17:00 Lenovo NDA briefing, host Karl Hansen (Coordinator: Ole)   
   Location: Sheraton Dallas, 400 Olive Street, Room: City View #2
