@@ -38,6 +38,7 @@ Conference report to DeiC
 
 DeiC will give some travel support on the condition that all participants make a 
 report on the findings from SC22.
+A work-in-progress report from SC22 is in [this file](SC22_report_DeiC_HPC_TekRef.docx).
 
 Previous reports can be found at https://www.deic.dk/en/Supercomputing/About-HPC/HPC-TechRef
 
