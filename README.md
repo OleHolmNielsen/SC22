@@ -151,8 +151,8 @@ Wednesday 16/11
 * 10:00-11:00 Cornelis Networks (Omni-Path fabric) NDA meeting (Coordinator: Ole)   
   Location: Show floor meeting room 130
 
-* 12:00-13:00 AMD NDA-meeting (preliminary, host Johan Thorslund) (Coordinator: Ole)   
-  Location: TBD
+* 12:00-13:00 AMD NDA-meeting (host Johan Thorslund) (Coordinator: Ole)   
+  Location: Commerce Room, 2nd floor, Magnolia Hotel, 1401 Commerce St.
 
 * 15:30-17 [Panel: Reinventing High-Performance Computing](https://sc22.supercomputing.org/presentation/?id=pan103&sess=sess175)      
   Location: C147-148-154
