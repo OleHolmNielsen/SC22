@@ -116,9 +116,6 @@ Monday 14/11
 * 13:00-13:50 Intel NDA meeting, host Jean-Laurent Philippe (Coordinator: Ole)   
   Location: State Room, Banquet Level (B Level), Fairmont Dallas Hotel, 1717 N Akard St
 
-* 15:00-16:00 Cornelis Networks NDA meeting (Coordinator: Ole)   
-  Location: SC Show Room 130
-
 * 19-21 Gala Opening Reception, Exhibit Halls 
 
 * 19:30 LUMI booth 545 opening, see https://www.lumi-supercomputer.eu/events/sc22-dallas-usa/
@@ -152,7 +149,7 @@ Wednesday 16/11
 ---------------
 
 * 10:00-11:00 Cornelis Networks (Omni-Path fabric) NDA meeting (Coordinator: Ole)   
-  Location: Show floor meeting room XXX
+  Location: Show floor meeting room 130
 
 * 12:00-13:00 AMD NDA-meeting (preliminary, host Johan Thorslund) (Coordinator: Ole)   
   Location: TBD
