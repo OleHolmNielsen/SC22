@@ -106,7 +106,7 @@ Sunday 13/11
 Monday 14/11
 ------------
 
-* 9:00-10:30 HPE NDA meeting, host Kor Pestman   
+* 9:00-10:30 HPE NDA meeting, host Kor Pestman (Coordinator: Ole)   
   Location: Arts District 2, Omni Dallas Hotel, Level 2, 555 S. Lamar St.
 
 * 9-17 DellEMC HPC Community event   
