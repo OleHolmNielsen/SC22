@@ -87,8 +87,8 @@ Travel to USA:
 * Lars: Arrival at 12.40.
 * Rainer, Rasmus: Arrival at 16:11, Delta Airlines DL2069
 
-Lørdag 12/11
-------------
+Saturday 12/11
+--------------
 
 * 10:00-17:30 HPE ForCAST Fall 2022 conference (continued).   
 
