@@ -145,6 +145,9 @@ Tuesday 15/11
 * 17:15-18:45 [TOP500 Supercomputers](https://sc22.supercomputing.org/presentation/?id=bof125&sess=sess477)   
   Location: Dallas Ballroom/Omni Hotel   
 
+* 19-22 HPE reception   
+  Location: Gilley’s, 1135 Botham Jean Blvd.  Must show your SC22 badge
+
 Wednesday 16/11
 ---------------
 
