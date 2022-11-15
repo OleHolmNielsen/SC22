@@ -152,7 +152,7 @@ Wednesday 16/11
 ---------------
 
 * 10:00-11:00 Cornelis Networks (Omni-Path fabric) NDA meeting (Coordinator: Ole)   
-  Location: Show floor meeting room 130
+  Location: Exhibition Showroom Suite #4625 and is located at the “Exhibitor Suites” area on the far right of the show floor. Its close to the Dining Area.
 
 * 12:00-13:00 AMD NDA-meeting (host Johan Thorslund) (Coordinator: Ole)   
   Location: Commerce Room, 2nd floor, Magnolia Hotel Downtown, 1401 Commerce St.
